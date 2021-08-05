@@ -5,7 +5,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update the WakaTime Stat
+    name: Manually run Wakatime
     runs-on: ubuntu-latest
     steps:
       # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
