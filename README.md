@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## WAKATIME
+
+<img src="https://github.com/anttia/anttia/blob/main/images/stat.svg" alt="Alternative Text"/>
